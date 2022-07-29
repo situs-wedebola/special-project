@@ -1,0 +1,18 @@
+{
+  "name": "situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022",
+  "theme": "ui",
+  "version": "1.4.2",
+  "description": "situs agen bandar bola dan judi bola resmi piala dunia qatar 2022",
+  "keywords": [
+    "agen bandar bola",
+    "situs judi bola piala dunia 2022",
+    "agen judi bola",
+    "bandar bola piala dunia",
+    "afb365"
+  ],
+  "repository": "https://github.com/situs-wedebola/special-project",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
