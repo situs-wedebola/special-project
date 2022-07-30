@@ -10,7 +10,7 @@
     "bandar bola piala dunia",
     "afb365"
   ],
-  "repository": "https://github.com/situs-wedebola/special-project",
+  "repository": "git://github.com/situs-wedebola/special-project.git.",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
