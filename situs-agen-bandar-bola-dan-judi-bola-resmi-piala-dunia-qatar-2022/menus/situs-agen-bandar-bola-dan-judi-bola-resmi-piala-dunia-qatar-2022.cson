@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022'
+      'command': 'situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022:toggle'
+        }
+      ]
+    ]
+  }
+]
