@@ -1,0 +1,15 @@
+{
+  "name": "situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/atom/situs-agen-bandar-bola-dan-judi-bola-resmi-piala-dunia-qatar-2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
